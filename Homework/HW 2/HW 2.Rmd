@@ -73,5 +73,5 @@ Choosing the K value to be 6 would not be advisable for this data because it wou
 
 Build a github repository to store your homework assignments.  Share the link in this file.  
 
-[Github Repository for HW 2](https://github.com/lynncheck/STOR-390/tree/main/Homework/HW%202)
+[https://github.com/lynncheck/STOR-390/tree/main/Homework/HW%202](https://github.com/lynncheck/STOR-390/tree/main/Homework/HW%202)
 
