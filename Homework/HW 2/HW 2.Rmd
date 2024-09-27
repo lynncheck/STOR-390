@@ -1,6 +1,6 @@
 ---
 title: "HW 2 Student"
-author: "Andy Ackerman"
+author: "Lynn Check"
 date: "10/17/2023"
 output:
   pdf_document: default
